@@ -1,0 +1,5 @@
+.hero img {
+    flex: 1;
+    width: 15%;
+    border-radius: 16px;
+}
